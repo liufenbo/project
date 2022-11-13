@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a586"],{bab3:function(n,t,e){"use strict";e.r(t);var s=function(){var n=this,t=n._self._c;return t("div",[n._v(" 404你的页面丢失了 ")])},u=[],c=(e("14d9"),{components:{},methods:{cancle(){this.$router.push({})}}}),o=c,a=e("2877"),l=Object(a["a"])(o,s,u,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d21a586.40586a05.js.map
